@@ -41,30 +41,30 @@
 
 ## Узнать больше
 
-Вы можете узнать больше в [документации по созданию приложения React] (https://facebook.github.io/create-react-app/docs/getting-started).
+Вы можете узнать больше в [документации по созданию приложения React](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Чтобы изучить React, ознакомьтесь с [документацией React] (https://reactjs.org/).
+Чтобы изучить React, ознакомьтесь с [документацией React](https://reactjs.org/).
 
 ### Разделение кода
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Этот раздел перемещен сюда: [code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Анализ размера пакета
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Этот раздел перемещен сюда: [analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Создание прогрессивного веб-приложения
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Этот раздел перемещен сюда: [making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Расширенная конфигурация
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Этот раздел перемещен сюда: [advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Развертывание
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Этот раздел перемещен сюда: [deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` не удалось минимизировать
 
-Этот раздел перемещен сюда: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Этот раздел перемещен сюда: [npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
